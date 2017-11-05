@@ -1,3 +1,6 @@
+//사용하실때 반드시 출처를 밝혀주세요. 이을.
+//Identify sources when using. Lee Eul.
+
 class Kd {
   int xyz; // 0, 1, 2
   int phase;
