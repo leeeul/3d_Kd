@@ -1,4 +1,6 @@
 //for export
+//사용하실때 반드시 출처를 밝혀주세요. 이을.
+//Identify sources when using. Lee Eul.
 
 Kd kd;
 
